@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jason's Test Site]]></title>
         <description><![CDATA[Jason's Test Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jason-s-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 13:22:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 13:23:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jason-s-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Township of Wilmot]]></title>
-            <description><![CDATA[<article><h1>The Township of Wilmot</h1><p>A cohesive, vibrant and welcoming countryside community.</p></article>]]></description>
-            <link>undefined97ab4020-798b-40f2-acd8-15743e4d908c/index.html</link>
+            <description><![CDATA[<article><h1>The Township of Wilmot</h1><p>A cohesive, vibrant and welcoming countryside community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f359d94c960529a72bbc067e96313e330bae3f8c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jason-s-test-site/97ab4020-798b-40f2-acd8-15743e4d908c/index.html</link>
             <guid isPermaLink="false">97ab4020-798b-40f2-acd8-15743e4d908c</guid>
-            <pubDate>Tue, 16 Feb 2016 13:22:15 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 13:23:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
